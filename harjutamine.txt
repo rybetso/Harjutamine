@@ -1,0 +1,2 @@
+Mina saan GitHubi edaspidi kasutada oma koolitööde, programmeerimisprojektide ja grupitööde haldamiseks.  
+See aitab mul hoida oma koodi korras ning jälgida tehtud muudatusi.
